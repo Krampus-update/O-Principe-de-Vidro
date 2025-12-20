@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-01T19:28:58.277-03:00","modified":"2025-12-01T20:34:07.893-03:00","tags":["Morto","NPC","Humano"],"cssclasses":""}
+{"publish":true,"created":"2025-12-01T19:28:58.277-03:00","modified":"2025-12-05T02:39:49.465-03:00","tags":["Morto","NPC","Humano"],"cssclasses":""}
 ---
 
 ![[NPCs/Mortos/Assets/Pasted image 20251201195110.png|center|200]]

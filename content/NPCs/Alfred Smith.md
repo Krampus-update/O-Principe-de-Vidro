@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-26T19:12:13.535-03:00","modified":"2025-12-01T20:33:57.959-03:00","tags":["NPC","Vivo","Humano"],"cssclasses":""}
+{"publish":true,"created":"2025-11-26T19:12:13.535-03:00","modified":"2025-12-05T02:38:41.530-03:00","tags":["NPC","Vivo","Humano"],"cssclasses":""}
 ---
 
 
@@ -9,4 +9,4 @@
 > > [[PGs/Jack Clark Müller\|Senhor Jack, O Protegido]]
 > ---
 > > [!recite]- Inimigos
-> > 
+> >
