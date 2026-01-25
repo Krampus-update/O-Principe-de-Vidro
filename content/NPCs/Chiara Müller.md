@@ -1,12 +1,13 @@
 ---
-{"publish":true,"created":"2025-12-01T19:01:56.810-03:00","modified":"2025-12-28T16:39:49.898-03:00","tags":["NPC","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-12-01T19:28:58.277-03:00","modified":"2025-12-28T16:43:04.561-03:00","tags":["Morto","NPC","Humano"],"cssclasses":""}
 ---
 
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("")):Image]
 ```
-
 ---
+
+
 > [!recite]- Relações
 > Evaluation Error: SyntaxError: Unexpected token '>'
     at DataviewInlineApi.eval (plugin:dataview:19027:21)
@@ -21,6 +22,7 @@ INPUT[imageListSuggester(optionQuery("")):Image]
     at eval (plugin:quartz-syncer:20146:54)mermaid\n" + mermaid + "\n```")
 > 
 > ```
+
 ---
 >[!recite]+ Notas
 >```meta-bind

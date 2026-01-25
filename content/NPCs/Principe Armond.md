@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-01T19:01:56.810-03:00","modified":"2025-12-28T16:39:49.898-03:00","tags":["NPC","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-12-21T16:40:19.026-03:00","modified":"2025-12-28T16:45:27.011-03:00","cssclasses":""}
 ---
 
 ```meta-bind

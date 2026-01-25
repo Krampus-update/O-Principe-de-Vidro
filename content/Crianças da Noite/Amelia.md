@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-01T19:01:56.810-03:00","modified":"2025-12-28T16:39:49.898-03:00","tags":["NPC","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-12-19T17:26:30.129-03:00","modified":"2026-01-04T16:50:39.145-03:00","cssclasses":""}
 ---
 
 ```meta-bind
@@ -21,6 +21,7 @@ INPUT[imageListSuggester(optionQuery("")):Image]
     at eval (plugin:quartz-syncer:20146:54)mermaid\n" + mermaid + "\n```")
 > 
 > ```
+
 ---
 >[!recite]+ Notas
 >```meta-bind

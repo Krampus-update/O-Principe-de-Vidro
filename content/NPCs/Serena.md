@@ -1,14 +1,26 @@
-![[NPCs/Assets/0d0aad3b-c698-4075-a496-5136acc54e94.png|center|200]]
+---
+{"publish":true,"created":"2025-12-19T17:20:22.762-03:00","modified":"2025-12-28T16:45:01.967-03:00","cssclasses":""}
+---
 
-> [!recite] Relações
-> > [!recite]- Aliados
-> > [[NPCs/Marion]]
-> 
-> ---
-> 
-> > [!recite]- Inimigos
-> > 
+```meta-bind
+INPUT[imageListSuggester(optionQuery("")):Image]
+```
 
+---
+> [!recite]- Relações
+> Evaluation Error: SyntaxError: Unexpected token '>'
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:689289)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at tryExecuteJs (plugin:quartz-syncer:19764:15)
+    at eval (plugin:quartz-syncer:19678:38)
+    at eval (plugin:quartz-syncer:20146:54)mermaid\n" + mermaid + "\n```")
+> 
+> ```
 ---
 >[!recite]+ Notas
 >```meta-bind

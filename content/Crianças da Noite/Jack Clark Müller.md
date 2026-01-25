@@ -1,10 +1,23 @@
 ---
-{"publish":true,"created":"2025-12-01T19:01:56.810-03:00","modified":"2025-12-28T16:39:49.898-03:00","tags":["NPC","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-11-25T22:52:06.081-03:00","modified":"2026-01-04T15:39:01.755-03:00","tags":["Jogador","Vivo","Vampiro"],"cssclasses":""}
 ---
 
+
+
 ```meta-bind
-INPUT[imageListSuggester(optionQuery("")):Image]
+INPUT[imageListSuggester(optionQuery("")):Images]
 ```
+
+---
+>[!recite]- Ficha
+> ![[Crianças da Noite/Assets/Jack_Clark.pdf]]
+
+---
+>[!recite]- Contatos
+>```meta-bind
+>INPUT[list(title(Contatos)):Contatos]
+>```
+
 
 ---
 > [!recite]- Relações
@@ -22,13 +35,5 @@ INPUT[imageListSuggester(optionQuery("")):Image]
 > 
 > ```
 ---
->[!recite]+ Notas
->```meta-bind
->INPUT[editor:notas]
->```
-
----
->[!recite]+ Historia
->```meta-bind
->INPUT[editor:historia]
->```
+>[!recite]- Historia
+>`VIEW[{Historia}][text]`

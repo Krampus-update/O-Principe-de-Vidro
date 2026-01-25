@@ -1,6 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-01T19:01:56.810-03:00","modified":"2025-12-28T16:39:49.898-03:00","tags":["NPC","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-12-27T14:24:33.595-03:00","modified":"2025-12-28T16:45:15.322-03:00","cssclasses":""}
 ---
+
+
 
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("")):Image]
